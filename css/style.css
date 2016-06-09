@@ -1,0 +1,20 @@
+html {
+background-color:aquamarine;
+font-family: 'Tangerine', serif;
+font-size: 48px;
+}
+body {
+background-clip: content-box;
+margin: auto;
+border-width: medium;
+background-color: greenyellow;
+border-bottom-style: dotted;
+}
+h1 {
+color: black;
+font-weight: 800;
+line-height: normal;
+}
+h2 {
+margin-top:1.3em;    
+}
